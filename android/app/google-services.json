@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "735808318384",
+    "project_id": "o-t-ts",
+    "storage_bucket": "o-t-ts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735808318384:android:6588cc6a8f902f22290475",
+        "android_client_info": {
+          "package_name": "com.mycompany.ott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735808318384-777ugnbpd0upr1ucab5g28eu4oe7ou8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ott",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "735808318384-vlv6vmosfjlvg91shs6p7qc34iaur7qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMWo3j9aMl0whjVmiJjyfs0M93z95tAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735808318384-ca5i8j272v4bm6l4c29t2rcqcmt7ndqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735808318384-m9nv075m9r8oj80mu99br6ui10jntc2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ott"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
