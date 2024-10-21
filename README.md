@@ -1,8 +1,5 @@
 # Flixify
 
-## APK LINK 
-https://drive.google.com/drive/folders/14xaCsZ_M83AFJTEdTvniR6OBTfr5zhzU?usp=drive_link
-
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/cc6b209c-31a1-4b9f-8e1a-723870c176b6)
 ![image](https://github.com/user-attachments/assets/e40a6342-bfb6-4599-95db-6ca752742abe)
